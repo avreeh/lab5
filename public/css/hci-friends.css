@@ -20,3 +20,7 @@ h1, h2, h3, h4, h5 {
 .img-rounded {
 	width: 500px;
 }
+
+h3.click {
+	color: #428bca;
+}
